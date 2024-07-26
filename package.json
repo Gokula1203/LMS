@@ -1,0 +1,26 @@
+{
+  "name": "librarymanagementsystem",
+  "version": "1.0.0",
+  "description": "GET : GET USER ID FROM DATABASE\r POST : TO ADD NEW USER IN THE DATABASE",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon index.js",
+   "next": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gokula1203/LibraryManagementSystem.git"
+  },
+  "author": "gk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gokula1203/LibraryManagementSystem/issues"
+  },
+  "homepage": "https://github.com/Gokula1203/LibraryManagementSystem#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
